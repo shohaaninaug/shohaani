@@ -57,6 +57,6 @@ supergirl(2026) will soon be added to this list #hopeful
 
 ---
 
-![movie theater](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba](https://media1.tenor.com/m/GNT5qaiNYMEAAAAC/watch-watching.gif)
+![movie theater](https://media1.tenor.com/m/GNT5qaiNYMEAAAAC/watch-watching.gif)
 
 [back to home](./index.md)
