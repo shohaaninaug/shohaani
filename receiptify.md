@@ -5,9 +5,9 @@
 | # | song | artist | length |
 |---|---|---|---|
 | 01 | K3 Cypher Verse - K3 | Underground Sound | 0:53 |
-| 02 | Vardy | Singgr | 1:40 |
+| 02 | Vardy | sinn6r | 1:40 |
 | 03 | Lose My Mind | PartyNextDoor | 3:04 |
-| 04 | Destroy Lonely | New New | 3:24 |
+| 04 | new new | Destroy Lonely | 3:24 |
 | 05 | Check Cleared* | PZ' | 1:56 |
 | 06 | Habits | Osamason | 3:20 |
 | 07 | Made Sum Plans | Osamason | 2:07 |
