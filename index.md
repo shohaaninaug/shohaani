@@ -19,7 +19,7 @@ first github pages site for cse 29
 
 [receiptify](./receiptify.html)
 
-[github](https://github.com)
+[github](https://github.com/shohaaninaug)
 
 ---
 
