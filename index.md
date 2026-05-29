@@ -13,8 +13,9 @@ first github pages site for cse 29
 - surviving finals
 
 ## links
-[hobbies](./hobbies.md)
+[hobbies](./hobbies.html)
 [letterboxd](./letterboxd.html)
+[receiptify](./receiptify.html)
 [github](https://github.com)
 
 ---
