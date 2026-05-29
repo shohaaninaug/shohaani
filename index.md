@@ -1,5 +1,3 @@
-# shohaani naug
-
 first github pages site for cse 29
 
 ## things i like
