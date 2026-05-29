@@ -14,8 +14,11 @@ first github pages site for cse 29
 
 ## links
 [hobbies](./hobbies.html)
+
 [letterboxd](./letterboxd.html)
+
 [receiptify](./receiptify.html)
+
 [github](https://github.com)
 
 ---
