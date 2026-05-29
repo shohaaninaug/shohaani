@@ -14,7 +14,7 @@ first github pages site for cse 29
 
 ## links
 [hobbies](./hobbies.md)
-[letterboxd](./letterboxd.md)
+[letterboxd](./letterboxd.html)
 [github](https://github.com)
 
 ---
